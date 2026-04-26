@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Build trees & vendored upstream
+llama.cpp/
+
+# Model weights — large, regenerable via setup scripts
+models/
+*.gguf

@@ -9,3 +9,6 @@ llama.cpp/
 # Model weights — large, regenerable via setup scripts
 models/
 *.gguf
+
+# Runtime logs
+*.log
